@@ -1,6 +1,6 @@
-## Varun Agrawal
+![Header](./github-header-banner.png)
 
-PhD student at Georgia Tech's School of Interactive Computing.
+PhD candidate at Georgia Tech's School of Interactive Computing.
 
 I like robots, food, and music.
 
